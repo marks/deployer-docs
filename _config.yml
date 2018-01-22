@@ -1,11 +1,12 @@
 # ----
 # Site
 
-title: Edition Template
-url: "https://long-pig.cloudvent.net"
+title: Domino Deployer
+url: "https://chrismyang.github.io/edition-jekyll-template/"
 baseurl:
 google_analytics_key:
 show_full_navigation: true
+gh_url: "https://github.com/chrismyang/edition-jekyll-template"
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png

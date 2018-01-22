@@ -81,6 +81,9 @@
 			<article class="content">
 				{{ content }}
 			</article>
+			<article class="content">
+			{% include doc-footer.html %}
+			</article>
 		</section>
 
 		<script>
@@ -88,5 +91,6 @@
 				document.body.classList.toggle("nav-open");
 			});
 		</script>
+
 	</body>
 </html>
