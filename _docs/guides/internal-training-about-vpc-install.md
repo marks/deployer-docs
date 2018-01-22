@@ -238,7 +238,7 @@ bin/domino-deployment plan wizard
 
 This will start an interactive wizard that leads you through the major decisions of configuring a deployment:
 
-> TODO: Screenshot of wizard
+![](/img/guides-wizard.png)
 
 There is inline documentation on each screen of the wizard, accessible through <F1> or Ctrl-O.
 
