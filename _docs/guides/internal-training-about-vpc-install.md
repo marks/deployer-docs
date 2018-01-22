@@ -1,7 +1,7 @@
 ---
 title: Internal Training About VPC Install/Deployment
 category: Guides
-order: 1
+order: 2
 ---
 
 Table of contents here?
