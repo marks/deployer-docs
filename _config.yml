@@ -2,11 +2,11 @@
 # Site
 
 title: Domino Deployer
-url: "https://chrismyang.github.io/edition-jekyll-template/"
+url: "https://cerebrotech.github.io/deployer-docs/"
 baseurl:
 google_analytics_key:
 show_full_navigation: true
-gh_url: "https://github.com/chrismyang/edition-jekyll-template"
+gh_url: "https://github.com/cerebrotech/deployer-docs"
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
