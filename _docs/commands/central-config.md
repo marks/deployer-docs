@@ -51,7 +51,7 @@ value: 'true'
 
 Usage: `bin/domino-deployment central-config gen-target [stage]`
 
-Given the deployment's manifest file, generates what would have been created as the initial Central Config values has
+Given the deployment's manifest file, generates what would have been created as the initial Central Config values had
  this been run as a fresh install.
 
 This "target" central config dump is output to `deploys/[stage]/target-central-config.yaml`.  This file has the same
