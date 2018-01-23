@@ -1,5 +1,5 @@
 ---
-title: Plan
+title: plan
 category: Commands
 order: 1
 ---
